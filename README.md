@@ -99,7 +99,3 @@ Zepto_Analytics/
 ├── README.md                 # Project documentation
 
 └── Dataset/                  # Source data files (if applicable)
-
-👨‍💻 Developed By
-
-Malla Anant
